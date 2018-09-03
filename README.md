@@ -1,1 +1,1 @@
-# pcgaming-news
+# Scrape r/pcgaming for news.
